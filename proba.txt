@@ -2,3 +2,4 @@ Hello World! Izmena. Nova izmena master.
 
 Hello World! Nova grana.
 
+Hello World! Izmena. Grana 2 Izmena.
