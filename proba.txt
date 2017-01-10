@@ -1,4 +1,4 @@
-Hello World! Izmena.
+Hello World! Izmena. Nova izmena master.
 
 Hello World! Nova grana.
 
